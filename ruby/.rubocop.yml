@@ -1,0 +1,4 @@
+require: rubocop-rspec
+AllCops:
+  DisplayCopNames: false
+  TargetRubyVersion: 2.7
